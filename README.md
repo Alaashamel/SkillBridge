@@ -2,7 +2,7 @@
 
 > A personal learning roadmap tracker — built with vanilla HTML, CSS & JavaScript.
 
-![SkillBridge Preview](https://via.placeholder.com/900x500/c96a2e/ffffff?text=SkillBridge)
+Try now => https://skill-bridge-pied.vercel.app/
 
 ---
 
