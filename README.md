@@ -1,5 +1,8 @@
 # SkillBridge 🗺️
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Language](https://img.shields.io/badge/language-JavaScript-informational.svg) ![Last Commit](https://img.shields.io/github/last-commit/Alaashamel/SkillBridge)
+
+
 > A personal learning roadmap tracker — built with vanilla HTML, CSS & JavaScript.
 
 Try now => https://skill-bridge-pied.vercel.app/
